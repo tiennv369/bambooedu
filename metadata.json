@@ -1,0 +1,7 @@
+{
+  "name": "Bamboo AI - PRo6",
+  "description": "A comprehensive AI-powered exam management and gamified learning platform for schools and centers.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
